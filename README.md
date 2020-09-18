@@ -8,7 +8,7 @@ It is a chatbot made using Rasa (python library), using ML to allow users to int
 * Rasa - Python Library
 <!-- To add more technologies use the same format! -->
 
-**Number of member/s required:** 2
+**Number of member/s required:** 0
 
 **Start Date:**  13-07-2020
   
